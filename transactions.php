@@ -18,6 +18,7 @@ include __DIR__ . '/includes/header.php';
     <?php include __DIR__ . '/includes/sidebar.php'; ?>
     
     <div class="dashboard-content">
+        <br><br><br><br>
         <h2>Transaction History</h2>
         <br><br>
         <div class="card">
