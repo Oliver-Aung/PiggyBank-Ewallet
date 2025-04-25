@@ -48,6 +48,7 @@ include __DIR__ . '/includes/header.php';
                 <?php unset($_SESSION['error']); ?>
             </div>
         <?php endif; ?>
+        <br><br><br><br>
 
         <h2>Welcome, <?php echo htmlspecialchars($user['full_name']); ?>!</h2>
         <br>
