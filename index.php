@@ -22,7 +22,7 @@ include __DIR__ . '/includes/header.php';
             </div>
         </div>
         <div class="hero-image">
-            <img src="assets/images/" alt="Piggy-Bank eWallet App">
+          
         </div>
     </div>
 </div>
